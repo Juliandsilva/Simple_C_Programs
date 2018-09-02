@@ -19,7 +19,7 @@ The compressed file will contain the following bytes:
 
 Note that compress_file	will write the compressed version
 of 'original-file', given as a command line argument, 
-to 'originalfile.rle'.	
+to 'original-file.rle'.	
 */
 
 
